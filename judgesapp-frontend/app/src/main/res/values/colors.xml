@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="selector_background">#D8D8D8</color>
+    <color name="mytransient">#00FFFFFF</color>
+    <color name="streak_color">#8E8686</color>
+    <color name="streak_color_light">#8B8282</color>
+    <color name="even_color">#D8D8D8</color>
+    <color name="row_color">#CECCCC</color>
+    <color name="hint_text_color">#ABA0A0</color>
+    <color name="not_judged">#5e0606</color>
+    <color name="judged">#034c05</color>
+</resources>
